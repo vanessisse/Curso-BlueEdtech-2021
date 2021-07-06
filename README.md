@@ -1,2 +1,1 @@
-# Projetos-Blue
-Projetos das aulas do curso da Blue.
+Documentação das aulas dadas no curso da Blue Edtech.
