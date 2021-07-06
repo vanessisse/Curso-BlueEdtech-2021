@@ -1,1 +1,1 @@
-Documentação das aulas dadas no curso da Blue Edtech.
+Esses são alguns exercícios propostos nas aulas ao vivo na 1ª semana do curso.
